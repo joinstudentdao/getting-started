@@ -42,9 +42,16 @@ For partners, we're providing protocols and funds paid access to:
 
 # Participating
 
+* Check out the discord channels: Once you've applied and selected your role, introduce yourself in #intros. Have skills to offer? Want to learn about a specific topic, or start a project? Let us know!
+* Drop a gm in #gm
+* Some interesting channels: #general chat, #education for new resources, #breaking-into-web3 for stories on member experience in seeking careers/internships, and #events for upcoming events!
+
 # Learning
+
+To get started learning about web3, head to the [master resources page](https://github.com/joinstudentdao/resources)
 
 # Investment Syndicate
 
-# Partners
+A unique aspect of being a member of Student DAO grants access to the investment syndicate exclusively for students. Drop into the #student-investment-syndicate for more info!
+
 
